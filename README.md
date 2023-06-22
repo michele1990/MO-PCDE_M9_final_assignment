@@ -3,7 +3,7 @@
 ![DataEngineering](https://img.shields.io/badge/Data-Engineering-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Module-orange)
 
-![Data-Engineering-Banner](assets/banner.jpg)
+![Massachusetts Institute of Technology](assets/MIT.png)
 
 ## Table of Contents
 
@@ -34,4 +34,4 @@ git clone https://github.com/<username>/data-engineering-gh-module.git
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
+
