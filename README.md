@@ -3,7 +3,6 @@
 ![DataEngineering](https://img.shields.io/badge/Data-Engineering-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Module-orange)
 
-![Massachusetts Institute of Technology](assets/MIT.png)
 
 ## Table of Contents
 
